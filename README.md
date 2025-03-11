@@ -11,8 +11,11 @@
   
 
   👋 Hi, I'm Dip Vijaykumar Patel, a Master's student in Computer Engineering at the University of Waterloo, specializing in AI.
+  
   🚀 Passionate about building SaaS products, advancing machine learning, training deep learning models, and extracting valuable insights from big data.
+  
   💻 Exploring side projects to sharpen my development skills while contributing to industry-collaborated projects to deepen my expertise in Machine Learning and AI.
+  
   ✨ Turning complex problems into innovative solutions—one line of code at a time!
 
   <div>
