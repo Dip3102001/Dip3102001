@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-
 <div align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="visitors" />
   
