@@ -74,27 +74,51 @@
 </div>
 
 ### My GitHub Stats
+<!-- GitHub Stats Card -->
 <div align="center">
-  <table>
+  <table style="background-color: #0d1117; border-radius: 6px; width: 400px; border: 1px solid #30363d;">
     <tr>
-      <td>Total Stars Earned:</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dip3102001?style=flat&color=blue"/></td>
+      <td align="left" colspan="2" style="padding: 10px 15px; border-bottom: 1px solid #21262d;">
+        <h3 style="color: #58a6ff; margin: 0;">
+          <span style="color: #58a6ff;">Dip Vijaykumar's GitHub Stats</span>
+          <img align="right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="border-radius: 50%;">
+        </h3>
+      </td>
     </tr>
-    <tr>
-      <td>Total Commits (2025):</td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Dip3102001/Dip3102001?style=flat&color=blue&label=commits"/></td>
+    <tr style="background-color: transparent;">
+      <td align="left" style="padding: 8px 15px; width: 300px;">
+        <span style="color: #58a6ff;">⭐</span>
+        <span style="color: #8b949e; margin-left: 10px;">Total Stars Earned:</span>
+      </td>
+      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">0</td>
     </tr>
-    <tr>
-      <td>Total PRs:</td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr-closed/Dip3102001/Dip3102001?style=flat&color=blue"/></td>
+    <tr style="background-color: transparent;">
+      <td align="left" style="padding: 8px 15px;">
+        <span style="color: #58a6ff;">🕒</span>
+        <span style="color: #8b949e; margin-left: 10px;">Total Commits (2025):</span>
+      </td>
+      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">62</td>
     </tr>
-    <tr>
-      <td>Total Issues:</td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dip3102001/Dip3102001?style=flat&color=blue"/></td>
+    <tr style="background-color: transparent;">
+      <td align="left" style="padding: 8px 15px;">
+        <span style="color: #58a6ff;">🔀</span>
+        <span style="color: #8b949e; margin-left: 10px;">Total PRs:</span>
+      </td>
+      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">93</td>
     </tr>
-    <tr>
-      <td>Contributed to (last year):</td>
-      <td><img alt="Contributed" src="https://img.shields.io/badge/dynamic/json?url=https://github-contributor-stats.vercel.app/api/contributor/Dip3102001&query=$.repositories.length&label=repos&color=blue"/></td>
+    <tr style="background-color: transparent;">
+      <td align="left" style="padding: 8px 15px;">
+        <span style="color: #58a6ff;">⚠️</span>
+        <span style="color: #8b949e; margin-left: 10px;">Total Issues:</span>
+      </td>
+      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">1</td>
+    </tr>
+    <tr style="background-color: transparent;">
+      <td align="left" style="padding: 8px 15px; border-bottom: none;">
+        <span style="color: #58a6ff;">📊</span>
+        <span style="color: #8b949e; margin-left: 10px;">Contributed to (last year):</span>
+      </td>
+      <td align="right" style="padding: 8px 15px; color: #c9d1d9; border-bottom: none;">0</td>
     </tr>
   </table>
 </div>
