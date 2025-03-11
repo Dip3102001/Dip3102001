@@ -75,35 +75,6 @@
 
 ### My GitHub Stats
 <!-- GitHub Stats Card -->
-<div align="center">
-  <kbd>
-    <img width="400" src="https://i.imgur.com/YOUR_CUSTOM_IMAGE_ID.png">
-  </kbd>
-  <h3>Dip Vijaykumar's GitHub Stats</h3>
-  <table>
-    <tr>
-      <td>⭐ Total Stars Earned:</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>🕒 Total Commits (2025):</td>
-      <td>62</td>
-    </tr>
-    <tr>
-      <td>🔀 Total PRs:</td>
-      <td>93</td>
-    </tr>
-    <tr>
-      <td>⚠️ Total Issues:</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>📊 Contributed to (last year):</td>
-      <td>0</td>
-    </tr>
-  </table>
-</div>
-
 <h3 align="center">Dip Vijaykumar's GitHub Stats</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-0-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
