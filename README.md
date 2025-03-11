@@ -101,6 +101,6 @@
 
 ### Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip3102001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" />
 </div>
 </div>
