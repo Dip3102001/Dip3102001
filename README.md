@@ -89,6 +89,13 @@
   <span>&nbsp;&nbsp;PigLatin&nbsp;&nbsp;</span>
 
 </div>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
+  <code>Hive</code>&nbsp;
+  <code>PigLatin</code>&nbsp;
+  <code>HBase</code>&nbsp;
+  <code>Spark</code>
+</p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" alt="AWS" />
