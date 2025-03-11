@@ -74,11 +74,19 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" />
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive">
   <img src="https://img.shields.io/badge/Apache_Pig-F88C00?style=for-the-badge&logo=apache&logoColor=white" alt="PigLatin">
   <img src="https://img.shields.io/badge/Apache_HBase-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="HBase">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"> -->
+  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ApacheSpark-Dark.svg" width="40" height="40" alt="Spark"></a>
+  <span>&nbsp;&nbsp;Spark&nbsp;&nbsp;</span>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/apache-hive.svg" width="40" height="40" alt="Hive"></a>
+  <span>&nbsp;&nbsp;Hive&nbsp;&nbsp;</span>
+  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Apache-HBase.svg" width="40" height="40" alt="HBase"></a>
+  <span>&nbsp;&nbsp;HBase&nbsp;&nbsp;</span>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/apache-pig.svg" width="40" height="40" alt="PigLatin"></a>
+  <span>&nbsp;&nbsp;PigLatin&nbsp;&nbsp;</span>
 
 </div>
 
