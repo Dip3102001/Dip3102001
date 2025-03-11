@@ -64,43 +64,30 @@
   </div>
   ---
   
-## 📊 Machine Learning & Data Science  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50" height="50" alt="SciPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" />
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive">
-  <img src="https://img.shields.io/badge/Apache_Pig-F88C00?style=for-the-badge&logo=apache&logoColor=white" alt="PigLatin">
-  <img src="https://img.shields.io/badge/Apache_HBase-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="HBase">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"> -->
-  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ApacheSpark-Dark.svg" width="40" height="40" alt="Spark"></a>
-  <span>&nbsp;&nbsp;Spark&nbsp;&nbsp;</span>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/apache-hive.svg" width="40" height="40" alt="Hive"></a>
-  <span>&nbsp;&nbsp;Hive&nbsp;&nbsp;</span>
-  <a href="#"><img src="https://icon.icepanel.io/Technology/svg/Apache-HBase.svg" width="40" height="40" alt="HBase"></a>
-  <span>&nbsp;&nbsp;HBase&nbsp;&nbsp;</span>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/apache-pig.svg" width="40" height="40" alt="PigLatin"></a>
-  <span>&nbsp;&nbsp;PigLatin&nbsp;&nbsp;</span>
-
-</div>
+## 📊 Machine Learning & Data Science 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
+  <code>Numpy</code>&nbsp;
+  <code>Pandas</code>&nbsp;
+  <code>Scipy</code>&nbsp;
+  <code>Torch</code>&nbsp;
+  <code>Sklearn</code>
+</p
+  
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
+  <code>Hadoop</code>&nbsp;
   <code>Hive</code>&nbsp;
   <code>PigLatin</code>&nbsp;
   <code>HBase</code>&nbsp;
   <code>Spark</code>
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP" />
-</div>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
+  <code>AWS</code>&nbsp;
+  <code>GCP</code>
+</p>
 
   ---
   ## ⚡ Stats ⚡
