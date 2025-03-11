@@ -75,10 +75,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="50" height="50" alt="Hive" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/piglatin/piglatin-original.svg" width="50" height="50" alt="PigLatin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hbase/hbase-original.svg" width="50" height="50" alt="HBase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="50" height="50" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive">
+  <img src="https://img.shields.io/badge/Apache_Pig-F88C00?style=for-the-badge&logo=apache&logoColor=white" alt="PigLatin">
+  <img src="https://img.shields.io/badge/Apache_HBase-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="HBase">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark">
+
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
