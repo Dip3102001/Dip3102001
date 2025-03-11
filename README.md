@@ -76,52 +76,47 @@
 ### My GitHub Stats
 <!-- GitHub Stats Card -->
 <div align="center">
-  <table style="background-color: #0d1117; border-radius: 6px; width: 400px; border: 1px solid #30363d;">
+  <kbd>
+    <img width="400" src="https://i.imgur.com/YOUR_CUSTOM_IMAGE_ID.png">
+  </kbd>
+  <h3>Dip Vijaykumar's GitHub Stats</h3>
+  <table>
     <tr>
-      <td align="left" colspan="2" style="padding: 10px 15px; border-bottom: 1px solid #21262d;">
-        <h3 style="color: #58a6ff; margin: 0;">
-          <span style="color: #58a6ff;">Dip Vijaykumar's GitHub Stats</span>
-          <img align="right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="border-radius: 50%;">
-        </h3>
-      </td>
+      <td>⭐ Total Stars Earned:</td>
+      <td>0</td>
     </tr>
-    <tr style="background-color: transparent;">
-      <td align="left" style="padding: 8px 15px; width: 300px;">
-        <span style="color: #58a6ff;">⭐</span>
-        <span style="color: #8b949e; margin-left: 10px;">Total Stars Earned:</span>
-      </td>
-      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">0</td>
+    <tr>
+      <td>🕒 Total Commits (2025):</td>
+      <td>62</td>
     </tr>
-    <tr style="background-color: transparent;">
-      <td align="left" style="padding: 8px 15px;">
-        <span style="color: #58a6ff;">🕒</span>
-        <span style="color: #8b949e; margin-left: 10px;">Total Commits (2025):</span>
-      </td>
-      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">62</td>
+    <tr>
+      <td>🔀 Total PRs:</td>
+      <td>93</td>
     </tr>
-    <tr style="background-color: transparent;">
-      <td align="left" style="padding: 8px 15px;">
-        <span style="color: #58a6ff;">🔀</span>
-        <span style="color: #8b949e; margin-left: 10px;">Total PRs:</span>
-      </td>
-      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">93</td>
+    <tr>
+      <td>⚠️ Total Issues:</td>
+      <td>1</td>
     </tr>
-    <tr style="background-color: transparent;">
-      <td align="left" style="padding: 8px 15px;">
-        <span style="color: #58a6ff;">⚠️</span>
-        <span style="color: #8b949e; margin-left: 10px;">Total Issues:</span>
-      </td>
-      <td align="right" style="padding: 8px 15px; color: #c9d1d9;">1</td>
-    </tr>
-    <tr style="background-color: transparent;">
-      <td align="left" style="padding: 8px 15px; border-bottom: none;">
-        <span style="color: #58a6ff;">📊</span>
-        <span style="color: #8b949e; margin-left: 10px;">Contributed to (last year):</span>
-      </td>
-      <td align="right" style="padding: 8px 15px; color: #c9d1d9; border-bottom: none;">0</td>
+    <tr>
+      <td>📊 Contributed to (last year):</td>
+      <td>0</td>
     </tr>
   </table>
 </div>
+
+<h3 align="center">Dip Vijaykumar's GitHub Stats</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-0-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🕒%20Total%20Commits%20(2025)-62-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🔀%20Total%20PRs-93-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/⚠️%20Total%20Issues-1-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <br/>
+  <img src="https://img.shields.io/badge/📊%20Contributed%20to%20(last%20year)-0-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
+</p>
+
 
 ### Most Used Languages
 <div align="center">
