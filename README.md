@@ -8,6 +8,7 @@
 </h1>
 
   ---
+  
 
   👋 Hi, I'm Dip Vijaykumar Patel, a Master's student in Computer Engineering at the University of Waterloo, specializing in AI.
   🚀 Passionate about building SaaS products, advancing machine learning, training deep learning models, and extracting valuable insights from big data.
