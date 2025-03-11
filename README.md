@@ -73,7 +73,7 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Hive_logo.svg" width="50" height="50" alt="Hive" />
   <img src="https://upload.wikimedia.org/wikipedia/en/e/e9/Pig_logo.svg" width="50" height="50" alt="PigLatin" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Hbase_logo.svg" width="50" height="50" alt="HBase" />
