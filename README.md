@@ -73,22 +73,6 @@
   </table>
 </div>
 
-### My GitHub Stats
-<!-- GitHub Stats Card -->
-<h3 align="center">Dip Vijaykumar's GitHub Stats</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-0-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🕒%20Total%20Commits%20(2025)-62-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🔀%20Total%20PRs-93-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
-  <br/>
-  <img src="https://img.shields.io/badge/⚠️%20Total%20Issues-1-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
-  <br/>
-  <img src="https://img.shields.io/badge/📊%20Contributed%20to%20(last%20year)-0-blue?style=flat-square&labelColor=0D1117&color=0D1117"/>
-</p>
-
-
 ### Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip3102001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" />
