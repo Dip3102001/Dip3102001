@@ -57,4 +57,50 @@
   </div>
 
   ---
+
+  ## ⚡ Stats ⚡
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Dip Vijaykumar's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="Dip Vijaykumar's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### My GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>Total Stars Earned:</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat&color=blue"/></td>
+    </tr>
+    <tr>
+      <td>Total Commits (2025):</td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue&label=commits"/></td>
+    </tr>
+    <tr>
+      <td>Total PRs:</td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr-closed/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue"/></td>
+    </tr>
+    <tr>
+      <td>Total Issues:</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue"/></td>
+    </tr>
+    <tr>
+      <td>Contributed to (last year):</td>
+      <td><img alt="Contributed" src="https://img.shields.io/badge/dynamic/json?url=https://github-contributor-stats.vercel.app/api/contributor/YOUR_USERNAME&query=$.repositories.length&label=repos&color=blue"/></td>
+    </tr>
+  </table>
+</div>
+
+### Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" />
+</div>
 </div>
