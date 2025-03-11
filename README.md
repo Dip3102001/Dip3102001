@@ -66,7 +66,6 @@
   
 ## 📊 Machine Learning & Data Science 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
   <code>Numpy</code>&nbsp;
   <code>Pandas</code>&nbsp;
   <code>Scipy</code>&nbsp;
@@ -75,7 +74,6 @@
 </p
   
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
   <code>Hadoop</code>&nbsp;
   <code>Hive</code>&nbsp;
   <code>PigLatin</code>&nbsp;
@@ -84,7 +82,6 @@
 </p>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache Ecosystem" />
   <code>AWS</code>&nbsp;
   <code>GCP</code>
 </p>
