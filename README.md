@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi There! 👋
 
-<!--
-**Dip3102001/Dip3102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+☀️ I'm a Software developer well versed in Java & MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚶 I've ventured through the exciting landscape of software development, picked up a few neat tricks, and forged a path I'm proud of.
+
+🔍💻 Join me on this techy adventure, and let's create some digital magic together!
+
+"In permanent beta: learn-improve-evolve-repeat!"
+
+[GMAIL](https://your-gmail-link) | [LINKEDIN](https://your-linkedin-link) | [PORTFOLIO](https://your-portfolio-link)
+
+---
+
+🛠️ Languages-Frameworks-Tools 🛠️
+
+<!-- Tech stack icons below -->
+<!-- You can use icons from sources like https://simpleicons.org/ -->
