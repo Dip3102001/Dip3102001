@@ -9,19 +9,16 @@
 
   ---
 
-  ☀️ I'm a Software developer well versed in Java & MERN stack.
-
-  🚶 I've ventured through the exciting landscape of software development, picked up a few neat tricks, and forged a path I'm proud of.
-
-  🔍💻 Join me on this techy adventure, and let's create some digital magic together!
-
-  "In permanent beta: learn-improve-evolve-repeat!"
+  👋 Hi, I'm Dip Vijaykumar Patel, a Master's student in Computer Engineering at the University of Waterloo, specializing in AI.
+  🚀 Passionate about building SaaS products, advancing machine learning, training deep learning models, and extracting valuable insights from big data.
+  💻 Exploring side projects to sharpen my development skills while contributing to industry-collaborated projects to deepen my expertise in Machine Learning and AI.
+  ✨ Turning complex problems into innovative solutions—one line of code at a time!
 
   <div>
-    <a href="mailto:your.email@gmail.com">
+    <a href="mailto:dv9patel@uwaterloo.ca">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/yourusername/">
+    <a href="https://www.linkedin.com/in/dip3-patel/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://yourportfolio.com">
