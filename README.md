@@ -90,8 +90,6 @@
   ---
   ## ⚡ Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dip3102001&theme=tokyonight&show_icons=true&count_private=true)
-
 <div align="center">
   <table>
     <tr>
