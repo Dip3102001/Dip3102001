@@ -82,7 +82,7 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP" />
 </div>
 
