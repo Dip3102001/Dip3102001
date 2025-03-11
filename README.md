@@ -78,23 +78,23 @@
   <table>
     <tr>
       <td>Total Stars Earned:</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat&color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dip3102001?style=flat&color=blue"/></td>
     </tr>
     <tr>
       <td>Total Commits (2025):</td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue&label=commits"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Dip3102001/Dip3102001?style=flat&color=blue&label=commits"/></td>
     </tr>
     <tr>
       <td>Total PRs:</td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr-closed/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr-closed/Dip3102001/Dip3102001?style=flat&color=blue"/></td>
     </tr>
     <tr>
       <td>Total Issues:</td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_USERNAME?style=flat&color=blue"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dip3102001/Dip3102001?style=flat&color=blue"/></td>
     </tr>
     <tr>
       <td>Contributed to (last year):</td>
-      <td><img alt="Contributed" src="https://img.shields.io/badge/dynamic/json?url=https://github-contributor-stats.vercel.app/api/contributor/YOUR_USERNAME&query=$.repositories.length&label=repos&color=blue"/></td>
+      <td><img alt="Contributed" src="https://img.shields.io/badge/dynamic/json?url=https://github-contributor-stats.vercel.app/api/contributor/Dip3102001&query=$.repositories.length&label=repos&color=blue"/></td>
     </tr>
   </table>
 </div>
