@@ -2,9 +2,9 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="visitors" />
   
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I+am+Dip+Vijaykumar&center=true&size=30&width=1000&duration=3000&weight=10">
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I+am+Dip+Vijaykumar&center=true&size=30&width=500&speed=100">
+  </a>
 </h1>
 
   ---
