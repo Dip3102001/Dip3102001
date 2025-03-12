@@ -97,7 +97,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Dip3102001&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Dip Vijaykumar's GitHub Stats" />
       </td>
       <td width="50%">
-        <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dip3102001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+        <img width=400 height=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dip3102001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
       </td>
     </tr>
   </table>
