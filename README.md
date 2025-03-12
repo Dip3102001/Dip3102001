@@ -94,7 +94,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dip3102001&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Dip Vijaykumar's GitHub Stats" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Dip3102001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dip3102001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
