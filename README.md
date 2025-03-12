@@ -102,9 +102,7 @@
     </tr>
   </table>
 </div>
-
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Dip3102001&theme=dark&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dip3102001)](https://git.io/streak-stats)
 
 ### Most Used Languages
 <div align="center">
