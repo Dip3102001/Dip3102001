@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/dip3-patel/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://yourportfolio.com">
+    <a href="https://vercel.com/dips-projects-f14a25fa/portfolio-1448">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
     </a>
   </div>
